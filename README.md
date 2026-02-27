@@ -1,4 +1,4 @@
-# python_2
+# sesi 2 
 Nama : Almira Hardianti
 NIM : 20250040076
 Matkul  : Dasar Pemrograman
